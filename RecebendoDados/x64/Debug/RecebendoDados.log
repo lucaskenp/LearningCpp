@@ -1,0 +1,3 @@
+﻿  RecebendoValores.cpp
+C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\RecebendoDados\RecebendoValores.cpp(6,6): warning C4101: 'numero02': variável local não referenciada
+  RecebendoDados.vcxproj -> C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\RecebendoDados\x64\Debug\RecebendoDados.exe
