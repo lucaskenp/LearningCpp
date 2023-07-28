@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Char\lib.h(6,22): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Char\lib2.h(6,22): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+  Char.vcxproj -> C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Char\x64\Debug\Char.exe
