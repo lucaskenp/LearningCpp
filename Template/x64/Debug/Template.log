@@ -1,0 +1,12 @@
+﻿  Template.cpp
+C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Template\Template.cpp(13,33): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Template\Template.cpp(13,27): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+  Template.vcxproj -> C:\Users\Lucas\Desktop\Arquivos\Trabalho\EstudoCpp\Template\x64\Debug\Template.exe
