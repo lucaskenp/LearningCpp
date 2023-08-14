@@ -11,6 +11,8 @@ private:
 	double Saldo{ 0.0 };
 
 public:
+	Conta(std::string banco, int agencia, int numConta, std::string titular, double saldo);
+	~Conta();
 	bool Sacar(double valor);
 	void Depositar(double valor);
 	void Transferir(Conta& Destino, double valor);

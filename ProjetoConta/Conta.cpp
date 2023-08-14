@@ -3,6 +3,14 @@
 
 using namespace std;
 
+
+Conta::Conta(std::string banco, int agencia, int numConta, std::string titular, double saldo) 
+	:Banco(banco),Agencia(agencia), NumConta(numConta), Titular(titular), Saldo(saldo) {}
+
+Conta::~Conta() {
+	std::cout << "\n Destrutor Objeto Endereco: " << this << " executado!\n";
+}
+
 bool Conta::Sacar(double valor) {
 	if (Saldo < valor) {
 		cout << "Saldo insuficiente\n";
